@@ -1,5 +1,4 @@
-// Copyright (c) 2015-present Mattermost, Inc. All Rights Reserved.
-// See LICENSE.txt for license information.
+// Copyright (c) 2015-present OneGarten, Inc. All Rights Reserved.
 
 const astUtils = require('eslint/lib/rules/utils/ast-utils');
 

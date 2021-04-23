@@ -1,8 +1,6 @@
-# eslint-plugin-mattermost
+# eslint-plugin-kid
 
-An ESLint plugin containing the configuration used by Mattermost as well as support for custom rules specific to the Mattermost code base.
-
-More information on our style guide is available [here](https://docs.mattermost.com/developer/style-guide.html).
+An ESLint plugin containing the configuration used by OneGarten as well as support for custom rules specific to the OneGarten code base.
 
 ## Custom Rules
 
